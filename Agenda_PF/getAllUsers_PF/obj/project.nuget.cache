@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VX8o9Oyp41eBqvzf0jntnUW82qCBYfMxcAW92d1jwYiKhMMB8WGw+nIAT8IIXReRw8puY0Zpw72rH0dqXuhTJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC78-AR\\Desktop\\ProyectoFinal\\Agenda_PF\\getAllUsers_PF\\getAllUsers_PF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC78-AR\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\PC78-AR\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC78-AR\\.nuget\\packages\\awssdk.core\\3.7.6\\awssdk.core.3.7.6.nupkg.sha512",
+    "C:\\Users\\PC78-AR\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.2.12\\awssdk.dynamodbv2.3.7.2.12.nupkg.sha512"
+  ],
+  "logs": []
+}
